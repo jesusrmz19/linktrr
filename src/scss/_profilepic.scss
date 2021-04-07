@@ -1,0 +1,14 @@
+.profile {
+  height: 80px;
+  width: 80px;
+  border-radius: 50%;
+  border: 1px solid gray;
+  position: relative;
+  overflow: hidden;
+  img {
+    position: absolute;
+    width: 100px;
+    top: 0;
+    left: -18px;
+  }
+}

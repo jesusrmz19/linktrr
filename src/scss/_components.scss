@@ -1,0 +1,17 @@
+.btn {
+  font-size: 16px;
+  text-transform: uppercase;
+  text-decoration: none;
+  letter-spacing: 1.2px;
+  padding: 0.8em 0.8em;
+  min-width: 230px;
+  border: 3px solid $seccolor;
+  border-radius: 5px;
+  box-shadow: -8px 8px rgba(0, 0, 0, 0.4);
+  color: $seccolor;
+  font-family: $btnfont;
+}
+
+.btn + .btn {
+  margin-top: 15px;
+}
