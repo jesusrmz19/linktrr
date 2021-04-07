@@ -10,8 +10,22 @@
   box-shadow: -8px 8px rgba(0, 0, 0, 0.4);
   color: $seccolor;
   font-family: $btnfont;
+  transition: all ease 0.3s;
+  @include respond(small) {
+    min-width: 335px;
+  }
+  @include respond(medium) {
+    min-width: 600px;
+  }
+  &:hover {
+    background-color: $seccolor;
+    color: $maincolor;
+  }
 }
 
 .btn + .btn {
   margin-top: 15px;
+  @include respond(medium) {
+    margin-top: 20px;
+  }
 }
