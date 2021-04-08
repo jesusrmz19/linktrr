@@ -21,6 +21,10 @@
     background-color: $seccolor;
     color: $maincolor;
   }
+  &:focus {
+    background-color: $seccolor;
+    color: $maincolor;
+  }
 }
 
 .btn + .btn {
