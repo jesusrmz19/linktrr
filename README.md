@@ -1,6 +1,6 @@
 # Link Tree 🌳
 
-This repo is for my personal created link tree: <a href="https://linktrr.jesusrmz.com/">here</a>.
+This repo is for my personal created link tree: <a href="https://linktrr.jesusrmz.com/" target="_blank" rel="noopener">here</a>.
 
 I made this because I've seen a lot of people on the internet using this new platform called Linktree, where basically you upload whatever quick links you want to show to the world.
 
@@ -14,8 +14,6 @@ I use Parcel as a bundler for production, and the creation of the live server du
 
 Hosted on Netlify 💚.
 
-### Thumbnail
-
-This is how it looks like 🔥
+This is how it looks 👇🏼🔥
 
 <img src="src/img/thumbnail.PNG" alt="Web page thumbnail">
